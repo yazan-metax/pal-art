@@ -1,9 +1,16 @@
 <h1 align="center">Palestinian embroidery 🍉</h1>
 
-
 <p align="center">
   <img src="https://github.com/yazan-metax/pal-art/blob/main/image2/Screenshot%202024-01-24%20at%2022.13.14.png" height="800">
 </p>
+
+# information about this embroidery ℹ️:
+
+Sarwa / Cypress Tree Ramallah (10) | سروة رام الله
+
+Ramallah | رام الله‎
+2 Colors | ألوان
+527 Stitches | غرز
 
 
 # Introduction🚀:
@@ -37,5 +44,6 @@ Palestinian embroidery, with its detailed patterns and vibrant history, has been
 - **Graphics Library:** MiniLibX,standart c libraries
 - **Files:** .h,.c,Makefile
 
+# Acknowledgments 😊:
 
-
+I am deeply grateful to [`Tirazain`](https://tirazain.com/) for their inspiring initiative in preserving Palestinian embroidery patterns. Their dedication to cultural preservation has been a guiding light in my efforts to contribute to this rich and beautiful tradition.
