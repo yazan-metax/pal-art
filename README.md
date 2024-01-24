@@ -1,5 +1,7 @@
 <h1 align="center">Palestinian embroidery 🍉</h1>
 
+<img src="https://github.com/yazan-metax/pal-art/blob/main/image2/Screenshot%202024-01-24%20at%2022.13.14.png">
+
 # Introduction🚀:
 
 ## Project Name:pal-art
