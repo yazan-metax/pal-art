@@ -48,3 +48,17 @@ Palestinian embroidery, with its detailed patterns and vibrant history, has been
 # Acknowledgments 😊:
 
 I am deeply grateful to [`Tirazain`](https://tirazain.com/) for their inspiring initiative in preserving Palestinian embroidery patterns. Their dedication to cultural preservation has been a guiding light in my efforts to contribute to this rich and beautiful tradition.
+
+<h1 align="center">preview 🔥</h1>
+
+<p align="center">
+  <img src="https://github.com/yazan-metax/pal-art/blob/main/image2/Screenshot%202024-01-24%20at%2022.10.32.png" height="800">
+</p>
+
+<p align="center">
+  <img src="https://github.com/yazan-metax/pal-art/blob/main/image2/Screenshot%202024-01-24%20at%2022.08.18.png" height="800">
+</p>
+
+<p align="center">
+  <img src="https://github.com/yazan-metax/pal-art/blob/main/image2/Screenshot%202024-01-24%20at%2018.22.29.png" height="800">
+</p>
