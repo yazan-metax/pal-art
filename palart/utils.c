@@ -79,17 +79,3 @@ void	draw(int x, int y, int size, int color, t_meta *meta)
 		draw_square_border(x, y, size, color, meta);
 	}
 }
-// this is judt for the purpose of trying
-void	draw_square_in_square(t_meta *meta, int w, int h, int color)
-{
-	draw(meta->center.x - w, meta->center.y - h, 30, color, meta);
-	draw(meta->center.x - w, (meta->center.y + 40) - h, 30, color, meta);
-	draw(meta->center.x - w, (meta->center.y + 80) - h, 30, color, meta);
-	draw(meta->center.x - w, (meta->center.y + 120) - h, 30, color, meta);
-	draw(meta->center.x - w, (meta->center.y + 160) - h, 30, color, meta);
-	draw(meta->center.x - w, (meta->center.y + 200) - h, 30, color, meta);
-	draw(meta->center.x - w, (meta->center.y + 240) - h, 30, color, meta);
-	draw(meta->center.x - w, (meta->center.y + 280) - h, 30, color, meta);
-	draw(meta->center.x - w, (meta->center.y + 320) - h, 30, color, meta);
-	draw(meta->center.x - w, (meta->center.y + 360) - h, 30, color, meta);
-}
