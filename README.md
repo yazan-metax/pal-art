@@ -12,7 +12,7 @@ Ramallah | رام الله‎
 2 Colors | ألوان
 527 Stitches | غرز
 
-[`have a look`]([`Tirazain`](https://tirazain.com/))
+[`have a look`](https://tirazain.com/archive/p/lily-f5j49-2ydlp-6fw9g-lflfx-ec3a3))
 
 # Introduction🚀:
 
